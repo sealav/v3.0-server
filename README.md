@@ -1,5 +1,7 @@
 # Astonia 3
 
+original info from Daniels Webpage: http://brockhaus.org
+
 ## Preface
 
 Astonia 3 is a small MMO. It has all the stuff a fantasy role-playing game needs (character development with attributes, skills and spells, quests, equipment and monsters), and it can handle maybe 1000 players online at once per shard. A realistic limit for the number of shards is around 25. With some investments into the database server hardware more is possible.
